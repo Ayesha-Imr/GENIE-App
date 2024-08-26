@@ -1,0 +1,23 @@
+Food Name,Food Type,Calories per 100g,Price per 1kg in $
+Apples,Fruit,89,1.29
+Bananas,Fruit,105,0.79
+Oranges,Fruit,110,1.49
+Grapes,Fruit,92,2.99
+Strawberries,Fruit,89,2.49
+Broccoli,Vegetable,25,4.29
+Cauliflower,Vegetable,26,3.89
+Carrots,Vegetable,25,2.29
+Peas,Vegetable,161,3.49
+Chickpeas,Vegetable,161,4.99
+Sweet Potatoes,Vegetable,101,3.69
+Apples,Fruits,89,1.29
+Bananas,Fruits,105,0.79
+Oranges,Fruits,60,2.99
+Grapes,Fruits,92,2.29
+Fat-Free Milk,Dairy,120,3.49
+Low-Fat Yogurt,Dairy,120,3.99
+Lean Beef,Protein,283,8.99
+Chicken Breast,Protein,145,5.99
+Salmon,Protein,233,12.99
+Broccoli,Vegetables,25,2.49
+Spinach,Vegetables,25,3.49

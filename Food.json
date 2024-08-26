@@ -1,0 +1,62 @@
+[
+    {
+        "Food Name": "Apples",
+        "Food Type": "Fruit",
+        "Calories per 100g": 60,
+        "Price per kg in $": 1.29
+    },
+    {
+        "Food Name": "Bananas",
+        "Food Type": "Fruit",
+        "Calories per 100g": 110,
+        "Price per kg in $": 0.58
+    },
+    {
+        "Food Name": "Oranges",
+        "Food Type": "Fruit",
+        "Calories per 100g": 60,
+        "Price per kg in $": 1.99
+    },
+    {
+        "Food Name": "Grapes",
+        "Food Type": "Fruit",
+        "Calories per 100g": 79,
+        "Price per kg in $": 2.99
+    },
+    {
+        "Food Name": "Strawberries",
+        "Food Type": "Fruit",
+        "Calories per 100g": 89,
+        "Price per kg in $": 2.49
+    },
+    {
+        "Food Name": "Chicken Breast",
+        "Food Type": "Protein",
+        "Calories per 100g": 256,
+        "Price per kg in $": 6.99
+    },
+    {
+        "Food Name": "Beef",
+        "Food Type": "Protein",
+        "Calories per 100g": 735,
+        "Price per kg in $": 5.49
+    },
+    {
+        "Food Name": "Fish",
+        "Food Type": "Protein",
+        "Calories per 100g": 159,
+        "Price per kg in $": 8.99
+    },
+    {
+        "Food Name": "Cheese",
+        "Food Type": "Dairy",
+        "Calories per 100g": 444,
+        "Price per kg in $": 9.99
+    },
+    {
+        "Food Name": "Eggs",
+        "Food Type": "Protein",
+        "Calories per 100g": 149,
+        "Price per kg in $": 3.99
+    }
+]

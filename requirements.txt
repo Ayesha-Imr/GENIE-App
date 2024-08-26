@@ -1,0 +1,5 @@
+ibm-watsonx-ai==1.1.6
+streamlit=1.37.1
+pandas==2.2.2
+csv==1.0
+io==0.0.1
